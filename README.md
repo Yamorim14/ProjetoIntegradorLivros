@@ -7,6 +7,7 @@
   • <a href="#pré-requisitos">Pré-requisitos</a>
   • <a href="#tecnologias">Tecnologias</a>
   • <a href="#autores">Autores</a>
+  • <a href="#MIT License">Licença</a>
 </p>
 
 <h4 align="center"> 
