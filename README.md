@@ -7,7 +7,7 @@
   • <a href="#pré-requisitos">Pré-requisitos</a>
   • <a href="#tecnologias">Tecnologias</a>
   • <a href="#autores">Autores</a>
-  • <a href="#MIT License">Licença</a>
+  • <a href="#license">License</a>
 </p>
 
 <h4 align="center"> 
@@ -45,7 +45,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Autores
 Feito por Lucas Gabriel, Leandro Aparecido, Fellipe Moura e Yasmin Amorim ❤️👋🏽 
 
-### MIT License
+### License
 
 Copyright(c)
 
